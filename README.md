@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating e
 
 ## 🚀 Projects
 
-### [Todo App](https://github.com/AchrafReyani/todo)
+### [Todo app](https://github.com/AchrafReyani/todo)
 A simple and efficient todo app built with Next.js and Firebase, designed to help you stay organized and on top of your tasks.
 
 ### [Webshop app](https://github.com/AchrafReyani/educom-webshop-oop)
 A straightforward webshop built with PHP and SQL, allowing users to register an account, place orders, and change their passwords.
 
-### [Blog app](https://github.com/AchrafReyani/blog)
-A simple blog site built with Node.js, enabling users to create, edit, and delete blog posts.
+### [Transaction manager app](https://github.com/AchrafReyani/transaction-manager)
+A simple and efficient todo app built with Next.js and Supabase, designed to help you stay organized and on top of your transactions.
