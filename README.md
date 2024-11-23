@@ -5,7 +5,7 @@ Hi, I'm Achraf Reyani 👨🏻‍💻 — a passionate **Fullstack Developer** s
 <br/>
 <br/>
 
-<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/mini.gif" height="180" />
+<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/minnie.gif" height="180" />
 
 - 👨‍💻 Currently Working as a Fullstack Developer at Poolder
 
