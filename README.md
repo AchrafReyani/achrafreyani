@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/wave.gif" width="30px">
 <br/>
 
-Hi, I'm Achraf Reyani 👨🏻‍💻 — a passionate **Fullstack Developer** striving to excel in building robust, scalable, and user-friendly applications. While my primary focus is on fullstack development, I'm also deeply interested in **Devops**, **Quality Assurance**, and exploring the potential of **Machine Learning** to solve complex challenges.
+Hi, I'm Achraf Reyani 👨🏻‍💻 — a passionate **Fullstack Developer** striving to excel in building robust, scalable, and user-friendly applications. While my primary focus is on fullstack development, I'm also very interested in **Devops**, **Quality Assurance**, and exploring the potential of **Machine Learning** to solve complex challenges.
 <br/>
 <br/>
 
