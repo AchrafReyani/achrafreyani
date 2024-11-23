@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/wave.gif" width="30px">
+<br/>
 
-<!--
-**AchrafReyani/achrafreyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Achraf Reyani, 👨🏻‍💻 aspiring to become an Expert in the field of **Fullstack** development.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/mini.gif" height="180" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Currently Working as a fullstack developer at Poolder
+
+- 👍 Enjoy Reading and 🎮
+
+- ✈️ Open to Remote Job Opportunities 🍻
+
+<br/>
+
+### 📈 GitHub Stats
+
+[![achrafreyani's github stats](https://github-readme-stats.vercel.app/api?username=achrafreyani&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafreyani&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=achrafreyani&color=blue&style=flat-square&label=visitors" align="right" />
