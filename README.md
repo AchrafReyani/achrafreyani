@@ -13,8 +13,6 @@
 
 - 🗾 日本での就職機会を積極的に探しています（WEBエンジニア）
 
-- [履歴書](https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/docs/履歴書.pdf) と [職務経歴書](https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/docs/職務経歴書.pdf)
-
 <br/>
 
 ### 📈 GitHub Stats
