@@ -7,12 +7,6 @@
 
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/minnie.gif" height="180" />
 
-- 👨‍💻 現在、Poolderでフルスタック開発者として勤務中
-
-- 👍 読書📖、ボルダリング🧗、ゲーム🎮が好き
-
-- 🗾 日本での就職機会を積極的に探しています（WEBエンジニア）
-
 <br/>
 
 ### 📈 GitHub Stats
