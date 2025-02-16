@@ -1,7 +1,7 @@
 ### こんにちは <img src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/wave.gif" width="30px">
 <br/>
 
-こんにちは、**アシュラフ レイヤーニ**です 👨🏻‍💻 — **ウェブエンジニア**をしています。頑丈でスケーラブルなソリューションを作るのが好きです。趣味は**語学** 📖、**筋トレ** 🏋🏻‍♂️、**旅行** ✈️ です。
+
 <br/>
 <br/>
 
