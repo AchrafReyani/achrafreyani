@@ -1,13 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/wave.gif" width="30px">
-<br/>
-
-
-<br/>
-<br/>
 
 <img align="left" alt="coding User Image" src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/minnie.gif" height="180" />
-
-<br/>
 
 ### 📈 GitHub Stats
 
