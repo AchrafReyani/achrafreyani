@@ -6,7 +6,7 @@
       
 - 🌷 Born and raised in the Netherlands
 - 🗾 Now working in Japan as a software engineer
-- 👨‍💻 Check out my [Portfolio website](https://portfolio-rho-gold-24.vercel.app/)  
+- 👨‍💻 Check out my [Portfolio Website](https://portfolio-rho-gold-24.vercel.app/)  
 
     </td>
     <td style="width:50%; text-align: center;">
