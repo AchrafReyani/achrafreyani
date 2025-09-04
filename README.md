@@ -18,6 +18,6 @@
 ---
 
 ## 💻  Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,tailwind,vercel,mongodb,mysql,firebase,supabase)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,tailwind,vercel,mongodb,mysql,firebase,supabase)](https://reyani.dev/)
 
 ## 👇 check my pinned projects below to see what I'm currently working on!
