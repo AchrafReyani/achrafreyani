@@ -18,4 +18,4 @@
 ---
 
 ## 💻  Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,tailwind,vercel,mongodb,postgresql,firebase,supabase)](https://reyani.dev/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,tailwind,vercel,render,postgresql,firebase,supabase)](https://reyani.dev/)
