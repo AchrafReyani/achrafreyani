@@ -6,7 +6,7 @@
       
 - 🌷 Born and raised in the Netherlands
 - 🗾 Now working in Japan as a software engineer
-- 👨‍💻 Check out my [Portfolio Website](https://reyani.dev/) and [Personal Project](https://github.com/AchrafReyani/job-matching-platform)
+- 👨‍💻 Check out my [Portfolio Website](https://reyani.dev/)
 
     </td>
     <td style="width:50%; text-align: center;">
