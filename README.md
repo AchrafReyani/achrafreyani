@@ -14,8 +14,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## 💻  Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,tailwind,docker,postgresql,vercel,firebase,supabase)](https://reyani.dev/)
