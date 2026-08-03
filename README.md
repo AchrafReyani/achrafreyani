@@ -4,7 +4,7 @@
 
 Senior full-stack engineer in Tokyo.
 
-Dutch, in Japan since 2025. Currently working on **an app to help you learn dutch.]**.
+Dutch, in Japan since 2025. Currently working on **an app to help you learn Dutch.**.
 
 I write about **Web development** at [reyani.dev](https://reyani.dev).
 
