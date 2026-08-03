@@ -1,14 +1,20 @@
 <table>
   <tr>
-    <td style="width:50%; vertical-align: top;">
-      
-- Dutch, based in Japan since 2025.
-- Mostly working on Web related solutions.
-- 👨‍💻 [Writing](https://reyani.dev/)
+    <td width="55%" valign="top">
 
-    </td>
-    <td style="width:50%; text-align: center;">
-      <img alt="coding User Image" src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/minnie.gif" width="350px" />
+Senior full-stack engineer in Tokyo.
+
+Dutch, in Japan since 2025. Currently working on **an app to help you learn dutch.]**.
+
+I write about **Web development** at [reyani.dev](https://reyani.dev).
+
+  </td>
+    <td width="45%" align="center">
+      <img
+        alt="Minnie"
+        src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/minnie.gif"
+        width="350"
+      />
     </td>
   </tr>
 </table>
