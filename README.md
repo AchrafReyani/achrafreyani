@@ -1,12 +1,10 @@
-# Hi there <img src="https://raw.githubusercontent.com/achrafreyani/achrafreyani/master/icons/wave.gif" width="30px">
-
 <table>
   <tr>
     <td style="width:50%; vertical-align: top;">
       
-- 🌷 Born and raised in the Netherlands
-- 🗾 Now working in Japan as a software engineer
-- 👨‍💻 Check out my [Portfolio Website](https://reyani.dev/)
+- Dutch, based in Japan since 2025.
+- Mostly working on Web related solutions.
+- 👨‍💻 [Writing](https://reyani.dev/)
 
     </td>
     <td style="width:50%; text-align: center;">
