@@ -4,7 +4,7 @@
 
 Senior full-stack engineer in Tokyo.
 
-Born and raised in the Netherlands, in Japan since 2025. Currently working on **an app to help you learn Dutch**.
+Born and raised in the Netherlands, in Japan since 2025.
 
 I write about **Web development** at [reyani.dev](https://reyani.dev).
 
